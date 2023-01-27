@@ -137,7 +137,8 @@ LACP allows Cisco switches to manage Ethernet channels between switches that con
 protocol. We can configure up to 16 ports to form a channel. Eight of the ports are in active mode and the 
 other eight are in standby mode. When any of the active ports fail, a standby port becomes active. Standby 
 mode works only for LACP, not for PAgP.</h5>
-<br><br>
+<br>
+
 ## Lab 8 Packet Tracer - Switch Security Configuration
 <img src="https://imgur.com/MnhMiTe.jpg">
 <h3>Objectives</h3> 
