@@ -2,7 +2,7 @@
 
 ## Lab 1 – Configuring Basic Router Settings with IOS CLI
 <img src="https://imgur.com/DzRcfKw.jpg">
-<h3 Objectives>
+<h3>Objectives</h3>
 #### Part 1: Set Up the Topology and Initialize Devices
 1. Cable equipment to match the network topology.
 2. Initialize and restart the router and switch.
