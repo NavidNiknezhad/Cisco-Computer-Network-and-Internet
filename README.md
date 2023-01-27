@@ -1,7 +1,7 @@
 # Cisco-Computer-Network-and-Internet
 
 ## Lab 1 – Configuring Basic Router Settings with IOS CLI
-<img src="https://imgur.com/DzRcfKw">
+<img src="https://imgur.com/DzRcfKw.jpg">
 ### Objectives
 #### Part 1: Set Up the Topology and Initialize Devices
 1. Cable equipment to match the network topology.
@@ -19,7 +19,7 @@
 #### Part 4: Configure IPv6 and Verify Connectivity
 
 ## Lab 2a – Configuring Basic Switch Settings
-<img src="https://imgur.com/8SVEgxk">
+<img src="https://imgur.com/8SVEgxk.jpg">
 ### Objectives
 #### Part 1: Cable the Network and Verify the Default Switch Configuration
 #### Part 2: Configure Basic Network Device Settings
@@ -37,7 +37,7 @@
 • Set up a static MAC address.
 
 ## Lab 2b – Configuring Switch Security Features
-<img src="https://imgur.com/AYi2O4a">
+<img src="https://imgur.com/AYi2O4a.jpg">
 ### Objectives
 #### Part 1: Set up the Topology and Initialize Devices
 #### Part 2: Configure Basic Device Settings and Verify Connectivity
@@ -62,7 +62,7 @@ In this lab, I built a simple topology using Ethernet LAN cabling and access a C
 message of the day (MOTD) banner, IP addressing, and static MAC address. We also demonstrate the Topology Lab 2a – Configuring Basic Switch Settings © 2016 Cisco and/or its affiliates. All rights reserved. Use of a management IP address for remote switch management. The topology consists of one switch and one host using only Ethernet and console ports.
 
 ## Lab 3 - Implement VLANs and Trunking
-<img src="https://imgur.com/Qn1Y2ha">
+<img src="https://imgur.com/Qn1Y2ha.jpg">
 ### Objectives
 #### Part 1: Build the Network and Configure Basic Device Settings
 #### Part 2: Create VLANs and Assign Switch Ports
@@ -79,7 +79,7 @@ In this lab, we create VLANs on both switches in the topology, assign VLANs to s
 verify that VLANs are working as expected and create VLAN trunks between the two switches.
 
 ## Lab 4 - Implement Inter-VLAN Routing
-<img src="https://imgur.com/XvjfE10">
+<img src="https://imgur.com/XvjfE10.jpg">
 ### Objectives
 #### Part 1: Build the Network and Configure Basic Device Settings
 #### Part 2: Create VLANs and Assign Switch Ports
@@ -104,7 +104,7 @@ and R1, and configure Inter-VLAN routing on R1 to allow hosts in different VLANs
 of which subnet the host resides.
 
 ## Lab 5 -Implement EtherChannel
-<img src="https://imgur.com/v1Ebz9P">
+<img src="https://imgur.com/v1Ebz9P.jpg">
 ### Objectives
 #### Part 1: Build the Network and Configure Basic Device Settings
 #### Part 2: Create VLANs and Assign Switch Ports
@@ -123,7 +123,7 @@ other eight are in standby mode. When any of the active ports fail, a standby po
 mode works only for LACP, not for PAgP.
 
 ## Lab 8 Packet Tracer - Switch Security Configuration
-<img src=https://imgur.com/MnhMiTe">
+<img src="https://imgur.com/MnhMiTe.jpg">
 ### Objectives 
 #### Part 1: Create a Secure Trunk 
 #### Part 2: Secure Unused Switchports 
