@@ -12,22 +12,22 @@
 <h3>Objectives</h3>
 <h4> Part 1: Set Up the Topology and Initialize Devices</h4>
 1. Cable equipment to match the network topology. <br>
-2. Initialize and restart the router and switch.<br><br>
+2. Initialize and restart the router and switch.<br>
 <h4> Part 2: Configure Devices and Verify Connectivity</h4>
 <p>
 1. Assign static IPv4 information to the PC interfaces. <br>
 2. Configure basic router settings. <br>
 3. Verify network connectivity. <br>
-4. Configure the router for SSH.<br><br>
+4. Configure the router for SSH.<br>
 </p>
 <h4> Part 3: Display Router Information</h4>
 <p>
 1. Retrieve hardware and software information from the router. <br>
 2. Interpret the output from the startup configuration. <br>
 3. Interpret the output from the routing table. <br>
-4. Verify the status of the interfaces.<br><br>
+4. Verify the status of the interfaces.<br>
 </p>
-<h4> Part 4: Configure IPv6 and Verify Connectivity</h4><br><br>
+<h4> Part 4: Configure IPv6 and Verify Connectivity</h4><br>
 
 ## Lab 2a – Configuring Basic Switch Settings
 <img src="https://imgur.com/8SVEgxk.jpg">
@@ -47,6 +47,7 @@
 • List the show mac address-table command options.
 • Set up a static MAC address.
 <br><br>
+
 ## Lab 2b – Configuring Switch Security Features
 <img src="https://imgur.com/AYi2O4a.jpg">
 <h3>Objectives</h3>
@@ -73,6 +74,7 @@ Cisco switches can be configured with a special IP address known as the switch v
 In this lab, I built a simple topology using Ethernet LAN cabling and access a Cisco switch using the console and remote access methods. You will examine default switch configurations before configuring basic switch settings. These basic switch settings include device name, interface description, local passwords,
 message of the day (MOTD) banner, IP addressing, and static MAC address. We also demonstrate the Topology Lab 2a – Configuring Basic Switch Settings © 2016 Cisco and/or its affiliates. All rights reserved. Use of a management IP address for remote switch management. The topology consists of one switch and one host using only Ethernet and console ports.
 <br><br>
+
 ## Lab 3 - Implement VLANs and Trunking
 <img src="https://imgur.com/Qn1Y2ha.jpg">
 <h3>Objectives</h3>
@@ -89,7 +91,8 @@ VLAN trunks are used to span VLANs across multiple devices. Trunks allow the tra
 travel over a single link, while keeping the VLAN identification and segmentation intact.
 In this lab, we create VLANs on both switches in the topology, assign VLANs to switch access ports, 
 verify that VLANs are working as expected and create VLAN trunks between the two switches.
-<br><br>
+<br>
+
 ## Lab 4 - Implement Inter-VLAN Routing
 <img src="https://imgur.com/XvjfE10.jpg">
 <h3>Objectives</h3>
@@ -114,7 +117,8 @@ In this lab, we create VLANs on both switches in the topology, assign VLANs to s
 verify that VLANs are working as expected, create VLAN trunks between the two switches and between S1 
 and R1, and configure Inter-VLAN routing on R1 to allow hosts in different VLANs to communicate, regardless 
 of which subnet the host resides.
-<br><br>
+<br>
+
 ## Lab 5 -Implement EtherChannel
 <img src="https://imgur.com/v1Ebz9P.jpg">
 <h3>Objectives</h3>
