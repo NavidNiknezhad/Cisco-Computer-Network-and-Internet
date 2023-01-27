@@ -1,5 +1,12 @@
 # Cisco-Computer-Network-and-Internet
 
+## Required Resources
+• Routers (Cisco 4221 with Cisco IOS XE Release 16.9.4 universal image or comparable)
+• Switches (Cisco 2960 with Cisco IOS Release 15.2(2) lanbasek9 image or comparable)
+• PCs (Windows with a terminal emulation program, such as Tera Term)
+• Console cables to configure the Cisco IOS devices via the console ports
+• Ethernet cables as shown in the topology
+
 ## Lab 1 – Configuring Basic Router Settings with IOS CLI
 <img src="https://imgur.com/DzRcfKw.jpg">
 <h3>Objectives</h3>
