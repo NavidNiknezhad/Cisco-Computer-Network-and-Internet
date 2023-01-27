@@ -1,7 +1,7 @@
 # Cisco-Computer-Network-and-Internet
 
 ## Lab 1 – Configuring Basic Router Settings with IOS CLI
-[Topology](https://imgur.com/DzRcfKw)
+<img src="https://imgur.com/DzRcfKw">
 ### Objectives
 #### Part 1: Set Up the Topology and Initialize Devices
 1. Cable equipment to match the network topology.
@@ -19,7 +19,7 @@
 #### Part 4: Configure IPv6 and Verify Connectivity
 
 ## Lab 2a – Configuring Basic Switch Settings
-
+<img src="https://imgur.com/8SVEgxk">
 ### Objectives
 #### Part 1: Cable the Network and Verify the Default Switch Configuration
 #### Part 2: Configure Basic Network Device Settings
@@ -36,13 +36,33 @@
 • List the show mac address-table command options.
 • Set up a static MAC address.
 
+## Lab 2b – Configuring Switch Security Features
+<img src="https://imgur.com/AYi2O4a">
+### Objectives
+#### Part 1: Set up the Topology and Initialize Devices
+#### Part 2: Configure Basic Device Settings and Verify Connectivity
+#### Part 3: Configure and Verify SSH Access on S1
+• Configure SSH access.
+• Modify SSH parameters.
+• Verify the SSH configuration.
+#### Part 4: Configure and Verify Security Features on S1
+• Configure and verify general security features.
+• Configure and verify port security.
+### Background / Scenario
+It is quite common to lock down access and install strong security features on PCs and servers. It is important 
+that your network infrastructure devices, such as switches and routers, are also configured with security 
+features.
+In this lab, you will follow some best practices for configuring security features on LAN switches. You will only 
+allow SSH and secure HTTPS sessions. You will also configure and verify port security to lock out any device 
+with a MAC address not recognized by the switch
+
 ### Background / Scenario
 Cisco switches can be configured with a special IP address known as the switch virtual interface (SVI). The SVI, or management address, can be used for remote access to the switch to display or configure settings. If the VLAN 1 SVI is assigned an IP address, by default all ports in VLAN 1 have access to the SVI IP address. 
 In this lab, I built a simple topology using Ethernet LAN cabling and access a Cisco switch using the console and remote access methods. You will examine default switch configurations before configuring basic switch settings. These basic switch settings include device name, interface description, local passwords,
 message of the day (MOTD) banner, IP addressing, and static MAC address. We also demonstrate the Topology Lab 2a – Configuring Basic Switch Settings © 2016 Cisco and/or its affiliates. All rights reserved. Use of a management IP address for remote switch management. The topology consists of one switch and one host using only Ethernet and console ports.
 
 ## Lab 3 - Implement VLANs and Trunking
-
+<img src="https://imgur.com/Qn1Y2ha">
 ### Objectives
 #### Part 1: Build the Network and Configure Basic Device Settings
 #### Part 2: Create VLANs and Assign Switch Ports
@@ -59,7 +79,7 @@ In this lab, we create VLANs on both switches in the topology, assign VLANs to s
 verify that VLANs are working as expected and create VLAN trunks between the two switches.
 
 ## Lab 4 - Implement Inter-VLAN Routing
-
+<img src="https://imgur.com/XvjfE10">
 ### Objectives
 #### Part 1: Build the Network and Configure Basic Device Settings
 #### Part 2: Create VLANs and Assign Switch Ports
@@ -84,7 +104,7 @@ and R1, and configure Inter-VLAN routing on R1 to allow hosts in different VLANs
 of which subnet the host resides.
 
 ## Lab 5 -Implement EtherChannel
-
+<img src="https://imgur.com/v1Ebz9P">
 ### Objectives
 #### Part 1: Build the Network and Configure Basic Device Settings
 #### Part 2: Create VLANs and Assign Switch Ports
@@ -103,13 +123,13 @@ other eight are in standby mode. When any of the active ports fail, a standby po
 mode works only for LACP, not for PAgP.
 
 ## Lab 8 Packet Tracer - Switch Security Configuration
-
+<img src=https://imgur.com/MnhMiTe">
 ### Objectives 
-Part 1: Create a Secure Trunk 
-Part 2: Secure Unused Switchports 
-Part 3: Implement Port Security 
-Part 4: Enable DHCP Snooping 
-Part 5: Configure Rapid PVST PortFast and BPDU Guard 
+#### Part 1: Create a Secure Trunk 
+#### Part 2: Secure Unused Switchports 
+#### Part 3: Implement Port Security 
+#### Part 4: Enable DHCP Snooping 
+#### Part 5: Configure Rapid PVST PortFast and BPDU Guard 
 
 ### Background 
 You are enhancing security on two access switches in a partially configured network. You will implement the 
