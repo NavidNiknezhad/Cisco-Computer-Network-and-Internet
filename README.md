@@ -1,31 +1,31 @@
 # Cisco-Computer-Network-and-Internet
 
 ## Required Resources
-• Routers (Cisco 4221 with Cisco IOS XE Release 16.9.4 universal image or comparable)
-• Switches (Cisco 2960 with Cisco IOS Release 15.2(2) lanbasek9 image or comparable)
-• PCs (Windows with a terminal emulation program, such as Tera Term)
-• Console cables to configure the Cisco IOS devices via the console ports
-• Ethernet cables as shown in the topology
+• Routers (Cisco 4221 with Cisco IOS XE Release 16.9.4 universal image or comparable)<br>
+• Switches (Cisco 2960 with Cisco IOS Release 15.2(2) lanbasek9 image or comparable)<br>
+• PCs (Windows with a terminal emulation program, such as Tera Term)<br>
+• Console cables to configure the Cisco IOS devices via the console ports<br>
+• Ethernet cables as shown in the topology<br><br>
 
 ## Lab 1 – Configuring Basic Router Settings with IOS CLI
 <img src="https://imgur.com/DzRcfKw.jpg">
 <h3>Objectives</h3>
 <h4> Part 1: Set Up the Topology and Initialize Devices</h4>
-1. Cable equipment to match the network topology. <br><br>
-2. Initialize and restart the router and switch.
+1. Cable equipment to match the network topology. <br>
+2. Initialize and restart the router and switch.<br><br>
 <h4> Part 2: Configure Devices and Verify Connectivity</h4>
 <p>
-1. Assign static IPv4 information to the PC interfaces. <br><br>
-2. Configure basic router settings. <br><br>
-3. Verify network connectivity. <br><br>
-4. Configure the router for SSH.
+1. Assign static IPv4 information to the PC interfaces. <br>
+2. Configure basic router settings. <br>
+3. Verify network connectivity. <br>
+4. Configure the router for SSH.<br><br>
 </p>
 <h4> Part 3: Display Router Information</h4>
 <p>
-1. Retrieve hardware and software information from the router. <br><br>
-2. Interpret the output from the startup configuration. <br><br>
-3. Interpret the output from the routing table. <br><br>
-4. Verify the status of the interfaces.
+1. Retrieve hardware and software information from the router. <br>
+2. Interpret the output from the startup configuration. <br>
+3. Interpret the output from the routing table. <br>
+4. Verify the status of the interfaces.<br><br>
 </p>
 <h4> Part 4: Configure IPv6 and Verify Connectivity</h4>
 
