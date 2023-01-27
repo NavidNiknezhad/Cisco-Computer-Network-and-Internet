@@ -32,7 +32,7 @@
 ## Lab 2a – Configuring Basic Switch Settings
 <img src="https://imgur.com/8SVEgxk.jpg">
 <h3>Objectives</h3>
-<h4> Part 1: Cable the Network and Verify the Default Switch Configuration</h4><br>
+<h4> Part 1: Cable the Network and Verify the Default Switch Configuration</h4>
 <h4> Part 2: Configure Basic Network Device Settings</h4>
 • Configure basic switch settings.
 • Configure the PC IP address.
