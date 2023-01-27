@@ -4,18 +4,24 @@
 <img src="https://imgur.com/DzRcfKw.jpg">
 <h3>Objectives</h3>
 <h4> Part 1: Set Up the Topology and Initialize Devices</h4>
+<p>
 1. Cable equipment to match the network topology.
 2. Initialize and restart the router and switch.
+</p>
 <h4> Part 2: Configure Devices and Verify Connectivity</h4>
+<p>
 1. Assign static IPv4 information to the PC interfaces.
 2. Configure basic router settings.
 3. Verify network connectivity.
 4. Configure the router for SSH.
+</p>
 <h4> Part 3: Display Router Information</h4>
+<p>
 1. Retrieve hardware and software information from the router.
 2. Interpret the output from the startup configuration.
 3. Interpret the output from the routing table.
 4. Verify the status of the interfaces.
+</p>
 <h4> Part 4: Configure IPv6 and Verify Connectivity</h4>
 
 ## Lab 2a – Configuring Basic Switch Settings
